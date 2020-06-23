@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_home_page_button"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Cityu My Home" />
+        <item
+            android:id="@+id/calendar_button"
+            android:icon="@drawable/ic_perm_contact_calendar_black_24dp"
+            android:title="Calendar" />
+        <item
+            android:id="@+id/library_button"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Library" />
+        <item
+            android:id="@+id/webmail_button"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="Webmail" />
+
+        <item
+            android:id="@+id/portal_button"
+            android:icon="@drawable/ic_school_black"
+            android:title="Edu. Portal" />
+    </group>
+
+    <item android:title="Courses">
+        <menu>
+            <item
+                android:id="@+id/CIS5_button"
+                android:icon="@drawable/ic_book_black_24dp"
+                android:title="CIS 5005" />
+            <item
+                android:id="@+id/CIS1_button"
+                android:icon="@drawable/ic_book_black_24dp"
+                android:title="CIS 5001" />
+            <item
+                android:id="@+id/CIS6_button"
+                android:icon="@drawable/ic_book_black_24dp"
+                android:title="CIS 5006" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Istudent</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="e_learning">E-Learning Platform</string>
+    <string name="my_profile">My Profile </string>
+    <string name="logout">Logout </string>
+    <string name="grade">Grade </string>
+    <string name="message">Message</string>
+    <string name="timetable">Time Table </string>
+    <string name="scan">Scan ID</string>
+
+
+    <string name="country_prompt">Select University</string>
+
+    <string-array name="university_arrays">
+        <item>Cardiff Metropolitan University</item>
+        <item>City Unity College</item>
+        <item>City Unity IIEK</item>
+        <item>Educons University</item>
+        <item>Euraka University</item>
+        <item>Hellenic Arab Maritime Academy</item>
+        <item>Alpine Center</item>
+    </string-array>
+
+    <string name="remember">Remember username</string>
+    <string name="sign_n_problem">Having trouble signing in?</string>
+    <string name="forgot_password">Forgotten your password or username?</string>
+    <string name="copyright">COPYRIGHT © 2019 | CITY COLLEGE.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="announcement">Announcement</string>
+    <string name="Urgent">URGENT</string>
+
+    <string name="edu">Educational Portal</string>
+    <string name="access">Access your electronic services and seek help!</string>
+    <string name="e_learn">E-Learning</string>
+    <string name="online">Access your online classes</string>
+    <string name="visit">Visit</string>
+    <string name="more">Learn More</string>
+
+    <string name="web_mail">Webmail</string>
+    <string name="web">Access your webmail</string>
+
+    <string name="my_grade">My Grade</string>
+    <string name="time_table">Time Table</string>
+    <string name="course1">CIS 5006 Mobile and Web Technologies</string>
+    <string name="course_info5">Best regards</string>
+    <string name="dear">Dear Student, </string>
+    <string name="course_info6">Dr. Aggelos Georgoulas</string>
+    <string name="course_info4"> The assignment includes two parts:Part A: A simple prototype piece of mobile/web application software which provides a creative solution to a real-world problem, as agreed by the instructor.
+    Part B: Supporting documentation in the form of a report (2,500 words).
+    By the end of the semester each student must deliver an in-class oral presentation of his/her work, supported by appropriate electronic material (system prototype, PowerPoint slides, etc).
+
+    </string>
+    <string name="course_info3"> Design and develop mobile and Web applications from a given specification using appropriate programming languages and frameworks.
+    Compile documentation that will indicate evidence of design and testing their application.
+    Assess and contrast the challenges of developing mobile and Web applications compared to other platforms.
+    The delivery of material will be through a combination of lectures and tutorial classes. The assessment for CIS5006 consists of a programming assignment (of the equivalent of 6000 words) worth 100%. The students will be asked to research, rationalize and develop a mobile/web application, based on detailed specifications.
+
+     </string>
+    <string name="course_info2">On successful completion of the module, students should be able to:</string>
+
+    <string name="course_info">Welcome to CIS5006 Mobile and Web technologies. This module aims to provide the student with the skills necessary to develop mobile and Web applications using appropriate programming languages and frameworks, along with the relevant design, testing, documentation and support.  It also contrasts mobile and Web applications with traditional applications to identify specific requirements and demands of building application for the mobile and Web.</string>
+</resources>
+
+
+
+
